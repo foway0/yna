@@ -1,0 +1,8 @@
+# mac
+.DS_Store
+
+# IDE
+.idea
+
+# repos
+repos
